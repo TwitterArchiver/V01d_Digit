@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1760113409167949824",
+    "conversation_id": "2054933752808415611",
+    "created_at": "2026-05-14T14:36:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T15:36:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054933752808415611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "705777407794352129",
+          "start": 3,
+          "username": "ServalCandle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054933752808415611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054236124533641700",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ServalCandle: 你们这些家伙\n要珍惜我们bpd啊喵（（（（\n\n不要相信bpd假自杀的事情\n我们是不是真的想死，只是想要吸引别人注意然后被人关心\n\n但是很容易就玩脱了真把自己搞死\n比如说咴咴那种(⁠@⁠_⁠@⁠)\n\n谁说的bpd假自杀就不会死，假自杀也会有生命…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1689,
+        "media_key": "3_2054236120347725824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIIc3h4aUAAJR-s.jpg",
+        "width": 1342
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760113409167949824",
+        "conversation_id": "2054933752808415611",
+        "created_at": "2026-05-14T14:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T15:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054933752808415611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "705777407794352129",
+              "start": 3,
+              "username": "ServalCandle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054933752808415611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054236124533641700",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ServalCandle: 你们这些家伙\n要珍惜我们bpd啊喵（（（（\n\n不要相信bpd假自杀的事情\n我们是不是真的想死，只是想要吸引别人注意然后被人关心\n\n但是很容易就玩脱了真把自己搞死\n比如说咴咴那种(⁠@⁠_⁠@⁠)\n\n谁说的bpd假自杀就不会死，假自杀也会有生命…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054236120347725824"
+          ]
+        },
+        "author_id": "705777407794352129",
+        "conversation_id": "2054236124533641700",
+        "created_at": "2026-05-12T16:23:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T17:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054236124533641700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CAmOBj6VPA",
+              "end": 173,
+              "expanded_url": "https://x.com/ServalCandle/status/2054236124533641700/photo/1",
+              "media_key": "3_2054236120347725824",
+              "start": 150,
+              "url": "https://t.co/CAmOBj6VPA"
+            },
+            {
+              "display_url": "x.com/ServalCandle/s…",
+              "end": 197,
+              "expanded_url": "https://twitter.com/ServalCandle/status/2054232002640138440",
+              "start": 174,
+              "url": "https://t.co/eSpNjGSoOX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054236124533641700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1081,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054232002640138440",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们这些家伙\n要珍惜我们bpd啊喵（（（（\n\n不要相信bpd假自杀的事情\n我们是不是真的想死，只是想要吸引别人注意然后被人关心\n\n但是很容易就玩脱了真把自己搞死\n比如说咴咴那种(⁠@⁠_⁠@⁠)\n\n谁说的bpd假自杀就不会死，假自杀也会有生命危险的\n\n大家快多关心身边的bpd(⁠๑⁠•⁠﹏⁠•⁠) https://t.co/CAmOBj6VPA https://t.co/eSpNjGSoOX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-21T01:25:31.000Z",
+        "description": "17y/AuDHD/not cuteMtF\n普通国内高中生，精神状态还好？，大量隐属\nNo 见证/NSFW｜CN/EN ok｜PM/CS beginner｜Goal :=Coq/?\nGame:我能玩吗｜Lover:Exist｜欢迎聊有趣/专业话题",
+        "id": "1760113409167949824",
+        "location": "V01d&Yuki？",
+        "name": "V01d（Yuki）",
+        "pinned_tweet_id": "2043909242932081038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042946030464045059/F6D8JGmP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 361,
+          "like_count": 5489,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 533
+        },
+        "username": "V01d_Digit",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-04T15:30:21.000Z",
+        "description": "頭像是自拍 / 身分證性別女/封鎖必回 / 癲貓精靈 咪咪超行(*≧ω≦)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.servalcandle.com",
+                "end": 23,
+                "expanded_url": "https://blog.servalcandle.com/",
+                "start": 0,
+                "url": "https://t.co/PBHqsUWVo2"
+              }
+            ]
+          }
+        },
+        "id": "705777407794352129",
+        "location": "🐈🥖Pain chat🥯🙀",
+        "name": "🌸猫宮すみか🎀🫪",
+        "pinned_tweet_id": "1911075406863819109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024879161932918784/w21cnpHC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33982,
+          "following_count": 417,
+          "like_count": 236442,
+          "listed_count": 107,
+          "media_count": 9179,
+          "tweet_count": 59834
+        },
+        "url": "https://t.co/PBHqsUWVo2",
+        "username": "ServalCandle",
+        "verified": true
+      }
+    ]
+  }
+}

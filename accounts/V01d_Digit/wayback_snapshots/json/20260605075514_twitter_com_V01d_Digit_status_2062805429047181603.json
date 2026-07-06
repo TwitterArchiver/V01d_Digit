@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1760113409167949824",
+    "conversation_id": "2062746290132570279",
+    "created_at": "2026-06-05T07:55:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T08:55:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062805429047181603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1393881158849503232",
+          "start": 0,
+          "username": "yuki_ciallo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062805429047181603",
+    "in_reply_to_user_id": "1393881158849503232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062746290132570279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuki_ciallo 好耶！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1070,
+        "media_key": "3_2062746147031314432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBYsRubcAACPl1.jpg",
+        "width": 1224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760113409167949824",
+        "conversation_id": "2062746290132570279",
+        "created_at": "2026-06-05T07:55:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T08:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062805429047181603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1393881158849503232",
+              "start": 0,
+              "username": "yuki_ciallo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062805429047181603",
+        "in_reply_to_user_id": "1393881158849503232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062746290132570279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuki_ciallo 好耶！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062746147031314432"
+          ]
+        },
+        "author_id": "1393881158849503232",
+        "conversation_id": "2062746290132570279",
+        "created_at": "2026-06-05T04:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T05:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062746290132570279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wLjvtJZKeq",
+              "end": 35,
+              "expanded_url": "https://x.com/yuki_ciallo/status/2062746290132570279/photo/1",
+              "media_key": "3_2062746147031314432",
+              "start": 12,
+              "url": "https://t.co/wLjvtJZKeq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062746290132570279",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被大佬关注了诶qwq！ https://t.co/wLjvtJZKeq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-21T01:25:31.000Z",
+        "description": "17y/AuDHD/not cuteMtF\n普通国内高中生，精神状态还好？，大量隐属\nNo 见证/NSFW｜CN/EN ok｜PM/CS beginner｜Goal :=Coq/?\nGame:我能玩吗｜Lover:Exist｜欢迎聊有趣/专业话题",
+        "id": "1760113409167949824",
+        "location": "V01d&Yuki？",
+        "name": "V01d（Yuki）",
+        "pinned_tweet_id": "2043909242932081038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042946030464045059/F6D8JGmP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 390,
+          "like_count": 5685,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 563
+        },
+        "username": "V01d_Digit",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-16T10:49:13.000Z",
+        "description": "MtF🏳️‍⚧️ / Sub/M / Bipolar / BPD / DID｜“被所有人爱着……这是我唯一的心愿……”",
+        "id": "1393881158849503232",
+        "location": "Betelgeuse",
+        "name": "神楽 由紀 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1943833002158829734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029423814757769216/N6DaL2T7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 330,
+          "like_count": 1122,
+          "listed_count": 5,
+          "media_count": 121,
+          "tweet_count": 1526
+        },
+        "username": "yuki_ciallo",
+        "verified": false
+      }
+    ]
+  }
+}

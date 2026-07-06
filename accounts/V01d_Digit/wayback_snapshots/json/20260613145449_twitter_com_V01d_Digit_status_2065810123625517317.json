@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1760113409167949824",
+    "conversation_id": "2065810123625517317",
+    "created_at": "2026-06-13T14:54:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T15:54:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065810123625517317"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065810123625517317",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "正式宣布：我选择脱跨，回归原生生理性别。\n回望之前的性别焦虑、身份认同挣扎，是漫长且内耗的自我内耗。经过长期反复的自我审视、心理梳理，确认自身并非跨性别，只是阶段性的自我认知偏差。\n感谢所有曾经理解、陪伴我的人，也接纳过去迷茫的自己。\n往后以原生性别好好生活，祝我们都能和自己和解。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760113409167949824",
+        "conversation_id": "2065810123625517317",
+        "created_at": "2026-06-13T14:54:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T15:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065810123625517317"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065810123625517317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "正式宣布：我选择脱跨，回归原生生理性别。\n回望之前的性别焦虑、身份认同挣扎，是漫长且内耗的自我内耗。经过长期反复的自我审视、心理梳理，确认自身并非跨性别，只是阶段性的自我认知偏差。\n感谢所有曾经理解、陪伴我的人，也接纳过去迷茫的自己。\n往后以原生性别好好生活，祝我们都能和自己和解。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-21T01:25:31.000Z",
+        "description": "17y/AuDHD/not cuteMtF\n普通国内高中生，精神状态还好？，大量隐属\nNo 见证/NSFW｜CN/EN ok｜PM/CS beginner｜Goal :=Coq/?\nGame:我能玩吗｜Lover:Exist｜欢迎聊有趣/专业话题",
+        "id": "1760113409167949824",
+        "location": "V01d&Yuki？",
+        "name": "V01d（Yuki）",
+        "pinned_tweet_id": "2043909242932081038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042946030464045059/F6D8JGmP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 393,
+          "like_count": 5922,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 583
+        },
+        "username": "V01d_Digit",
+        "verified": false
+      }
+    ]
+  }
+}

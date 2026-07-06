@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1760113409167949824",
+    "conversation_id": "2068326903161962843",
+    "created_at": "2026-06-20T13:35:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T14:35:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068326903161962843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "904630459539312640",
+          "start": 3,
+          "username": "pubity"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068326903161962843",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3428
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068015957965164660",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pubity: The Netherlands has completely banned conversion therapy and made the practice illegal.\n\nPeople caught trying to pressure LGBTQ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2068006712305393664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMJJegWIAA-LHV.jpg",
+        "width": 1050
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2068006712393564160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMJJe1XgAAnIbK.jpg",
+        "width": 1050
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760113409167949824",
+        "conversation_id": "2068326903161962843",
+        "created_at": "2026-06-20T13:35:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T14:35:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068326903161962843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "904630459539312640",
+              "start": 3,
+              "username": "pubity"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068326903161962843",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3428
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068015957965164660",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pubity: The Netherlands has completely banned conversion therapy and made the practice illegal.\n\nPeople caught trying to pressure LGBTQ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068006712305393664",
+            "3_2068006712393564160"
+          ]
+        },
+        "author_id": "904630459539312640",
+        "conversation_id": "2068015957965164660",
+        "created_at": "2026-06-19T17:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T18:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068015957965164660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tCAyfGXsW8",
+              "end": 244,
+              "expanded_url": "https://x.com/pubity/status/2068015957965164660/photo/1",
+              "media_key": "3_2068006712305393664",
+              "start": 221,
+              "url": "https://t.co/tCAyfGXsW8"
+            },
+            {
+              "display_url": "pic.x.com/tCAyfGXsW8",
+              "end": 244,
+              "expanded_url": "https://x.com/pubity/status/2068015957965164660/photo/1",
+              "media_key": "3_2068006712393564160",
+              "start": 221,
+              "url": "https://t.co/tCAyfGXsW8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068015957965164660",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1077,
+          "impression_count": 637934,
+          "like_count": 28130,
+          "quote_count": 423,
+          "reply_count": 302,
+          "retweet_count": 3428
+        },
+        "reply_settings": "everyone",
+        "text": "The Netherlands has completely banned conversion therapy and made the practice illegal.\n\nPeople caught trying to pressure LGBTQIA+ individuals into changing who they are will get up to 2 years in jail or a $30,000+ fine. https://t.co/tCAyfGXsW8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-21T01:25:31.000Z",
+        "description": "17y/AuDHD/not cuteFtF\n普通国内高中生，精神状态还好？，大量隐属\nNo 见证/NSFW｜CN/EN ok｜PM/CS beginner｜Goal :=Coq/?\nGame:我能玩吗｜Lover:Exist｜欢迎聊有趣/专业话题",
+        "id": "1760113409167949824",
+        "location": "V01d&Yuki？",
+        "name": "V01d（Yuki）",
+        "pinned_tweet_id": "2043909242932081038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042946030464045059/F6D8JGmP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 417,
+          "like_count": 6114,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 591
+        },
+        "url": "",
+        "username": "V01d_Digit",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-04T09:01:23.000Z",
+        "description": "Informative, entertaining and breaking news.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pubitygroup.com",
+                "end": 23,
+                "expanded_url": "http://pubitygroup.com",
+                "start": 0,
+                "url": "https://t.co/BwmjjB83kA"
+              }
+            ]
+          }
+        },
+        "id": "904630459539312640",
+        "location": "New York, USA",
+        "name": "Pubity",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778055517925146624/nJXOa2UM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304498,
+          "following_count": 169,
+          "like_count": 849,
+          "listed_count": 841,
+          "media_count": 11084,
+          "tweet_count": 11834
+        },
+        "url": "https://t.co/BwmjjB83kA",
+        "username": "pubity",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1760113409167949824",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2064265990989627661",
+    "created_at": "2026-06-09T08:38:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T09:38:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064265990989627661"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/v01d_digit/sta…",
+          "end": 88,
+          "expanded_url": "https://twitter.com/v01d_digit/status/2049393690238681263",
+          "start": 65,
+          "url": "https://t.co/DJKLsZy4rE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064265990989627661",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049393690238681263",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "樂\n高二期中考试\n语文94/150\n数学124/150\n英语109/150\n物理85/100\n化学86/100\n生物87/100 https://t.co/DJKLsZy4rE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760113409167949824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2064265990989627661",
+        "created_at": "2026-06-09T08:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064265990989627661"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/v01d_digit/sta…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/v01d_digit/status/2049393690238681263",
+              "start": 65,
+              "url": "https://t.co/DJKLsZy4rE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064265990989627661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049393690238681263",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "樂\n高二期中考试\n语文94/150\n数学124/150\n英语109/150\n物理85/100\n化学86/100\n生物87/100 https://t.co/DJKLsZy4rE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760113409167949824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2049393690238681263",
+        "created_at": "2026-04-29T07:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T08:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049393690238681263"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049393690238681263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4624,
+          "like_count": 45,
+          "quote_count": 2,
+          "reply_count": 36,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "高二废物考高三二模\n语文110/150\n数学108/150\n英语108/150\n物理79/100\n化学89/100\n生物88/100\n没救了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-21T01:25:31.000Z",
+        "description": "17y/AuDHD/not cuteMtF\n普通国内高中生，精神状态还好？，大量隐属\nNo 见证/NSFW｜CN/EN ok｜PM/CS beginner｜Goal :=Coq/?\nGame:我能玩吗｜Lover:Exist｜欢迎聊有趣/专业话题",
+        "id": "1760113409167949824",
+        "location": "V01d&Yuki？",
+        "name": "V01d（Yuki）",
+        "pinned_tweet_id": "2043909242932081038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042946030464045059/F6D8JGmP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 393,
+          "like_count": 5804,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 573
+        },
+        "username": "V01d_Digit",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1760113409167949824",
+    "conversation_id": "2073182195049767227",
+    "created_at": "2026-07-03T23:08:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T00:08:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073182195049767227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1739391734491086848",
+          "start": 3,
+          "username": "IXXA00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073182195049767227",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073081522350129292",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IXXA00: 三十岁的周末，你窝在出租屋的沙发里。\n窗帘一直是严严实实，手机里永远都是静音。\n同学的聚会，朋友的聚餐，爸妈催你相亲。\n你通通都没有回复。\n\n你的生活越来越小，小到只有出租屋的几十平米。\n你养了只猫，小猫每天都会在家等你。\n你觉得猫比人好，猫从来不会向你…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760113409167949824",
+        "conversation_id": "2073182195049767227",
+        "created_at": "2026-07-03T23:08:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T00:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073182195049767227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1739391734491086848",
+              "start": 3,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073182195049767227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073081522350129292",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IXXA00: 三十岁的周末，你窝在出租屋的沙发里。\n窗帘一直是严严实实，手机里永远都是静音。\n同学的聚会，朋友的聚餐，爸妈催你相亲。\n你通通都没有回复。\n\n你的生活越来越小，小到只有出租屋的几十平米。\n你养了只猫，小猫每天都会在家等你。\n你觉得猫比人好，猫从来不会向你…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2073081522350129292",
+        "created_at": "2026-07-03T16:28:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T17:28:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073081522350129292"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073081522350129292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "三十岁的周末，你窝在出租屋的沙发里。\n窗帘一直是严严实实，手机里永远都是静音。\n同学的聚会，朋友的聚餐，爸妈催你相亲。\n你通通都没有回复。\n\n你的生活越来越小，小到只有出租屋的几十平米。\n你养了只猫，小猫每天都会在家等你。\n你觉得猫比人好，猫从来不会向你索求回应，也不会突然离开。\n冰箱里只剩下两盒酸奶，周末两天可以不说一句话。\n你觉得这样挺好，自由，安全，没有麻烦。\n只是有时候半夜醒过来，看着黑漆漆的天花板，会觉得很空。\n\n你想找人说话，但通讯录里，社交媒体上，找不到一个可以打扰的人。\n你安慰自己，人本来就是应该是孤独的，可是你心里比谁都明白，不是你选择了孤独，是你一步步躲进了孤独里。\n你花了几十年建立起来的安全壳，确确实实挡住了所有伤害，也挡住了所有温度。\n你想改变，可是知道和做到，\n中间横越了几十年的人生。\n\n有些人也曾试图拯救你，去爱你，但都觉得你自私，都觉得你冷漠。\n\n但从没有人问过你，心中的那个小孩子，在许多个上午下午或者夜晚，害不害怕。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1100,
+          "like_count": 36,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "三十岁的周末，你窝在出租屋的沙发里。\n窗帘一直是严严实实，手机里永远都是静音。\n同学的聚会，朋友的聚餐，爸妈催你相亲。\n你通通都没有回复。\n\n你的生活越来越小，小到只有出租屋的几十平米。\n你养了只猫，小猫每天都会在家等你。\n你觉得猫比人好，猫从来不会向你索求回应，也不会突然离开。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-21T01:25:31.000Z",
+        "description": "17y/AuDHD/not cuteFtF\n普通国内高中生，精神状态还好？，大量隐属\nNo 见证/NSFW｜CN/EN ok｜PM/CS beginner｜Goal :=Coq/?\nGame:我能玩吗｜Lover:Exist｜欢迎聊有趣/专业话题",
+        "id": "1760113409167949824",
+        "location": "V01d&Yuki？",
+        "name": "V01d（Yuki）",
+        "pinned_tweet_id": "2043909242932081038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042946030464045059/F6D8JGmP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 421,
+          "like_count": 6379,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 599
+        },
+        "url": "",
+        "username": "V01d_Digit",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "渡劫期",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2072853266300641574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072661392608632832/wRz_f6jh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7458,
+          "following_count": 4534,
+          "like_count": 42652,
+          "listed_count": 18,
+          "media_count": 3104,
+          "tweet_count": 42122
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1760113409167949824",
+    "conversation_id": "2058977508004139311",
+    "created_at": "2026-06-14T08:21:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T09:21:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066073479003394312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1093000591104569345",
+          "start": 0,
+          "username": "biliacat_public"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066073479003394312",
+    "in_reply_to_user_id": "1093000591104569345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058977508004139311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@biliacat_public 真正的志同道合是什么呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760113409167949824",
+        "conversation_id": "2058977508004139311",
+        "created_at": "2026-06-14T08:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066073479003394312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1093000591104569345",
+              "start": 0,
+              "username": "biliacat_public"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066073479003394312",
+        "in_reply_to_user_id": "1093000591104569345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058977508004139311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@biliacat_public 真正的志同道合是什么呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1093000591104569345",
+        "conversation_id": "2058977508004139311",
+        "created_at": "2026-05-25T18:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T19:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058977508004139311"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058977508004139311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1406,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是真的对钱不感兴趣。\n但是身边周围的人都对钱很感兴趣，并且都很现实，没有理想和浪漫的色彩。\n好像我不属于这个社会，一种游离的感觉。\n以前还有跨性别叙事、神经多样性叙事，现在社会已经现实得不能再现实了，少数群体的声音越来越被掩埋。\n玩推几年也没找到几个真正志同道合的同路人。我好悲哀！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-21T01:25:31.000Z",
+        "description": "17y/AuDHD/not cuteFtF\n普通国内高中生，精神状态还好？，大量隐属\nNo 见证/NSFW｜CN/EN ok｜PM/CS beginner｜Goal :=Coq/?\nGame:我能玩吗｜Lover:Exist｜欢迎聊有趣/专业话题",
+        "id": "1760113409167949824",
+        "location": "V01d&Yuki？",
+        "name": "V01d（Yuki）",
+        "pinned_tweet_id": "2043909242932081038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042946030464045059/F6D8JGmP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 405,
+          "like_count": 5966,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 585
+        },
+        "username": "V01d_Digit",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-06T04:17:02.000Z",
+        "description": "AuDHD/intersex/anarcha-feminist/@CyouSakura",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "CyouSakura"
+              }
+            ]
+          }
+        },
+        "id": "1093000591104569345",
+        "location": "Touhou",
+        "name": "比例猫",
+        "pinned_tweet_id": "2047598805173129546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041520958004199424/qo-xJzYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12364,
+          "following_count": 4081,
+          "like_count": 40239,
+          "listed_count": 9,
+          "media_count": 13,
+          "tweet_count": 427
+        },
+        "username": "biliacat_public",
+        "verified": false
+      }
+    ]
+  }
+}
