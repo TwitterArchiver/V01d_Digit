@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1760113409167949824",
+    "conversation_id": "2074641179539632443",
+    "created_at": "2026-07-07T23:46:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T00:46:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074641179539632443"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074641179539632443",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吴京还是没赶上好时候啊，以前在国外寻求庇护的时候需要举着中国护照才能证明自己是中国人，现在直接拿出自己被 Anthropic 封禁的邮件截图就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760113409167949824",
+        "conversation_id": "2074641179539632443",
+        "created_at": "2026-07-07T23:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T00:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074641179539632443"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074641179539632443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吴京还是没赶上好时候啊，以前在国外寻求庇护的时候需要举着中国护照才能证明自己是中国人，现在直接拿出自己被 Anthropic 封禁的邮件截图就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-21T01:25:31.000Z",
+        "description": "17y/AuDHD/not cuteFtF\n普通国内高中生，精神状态还好？，大量隐属\nNo 见证/NSFW｜CN/EN ok｜PM/CS beginner｜Goal :=Coq/?\nGame:我能玩吗｜Lover:Exist｜欢迎聊有趣/专业话题",
+        "id": "1760113409167949824",
+        "location": "V01d&Yuki？",
+        "name": "V01d（Yuki）",
+        "pinned_tweet_id": "2043909242932081038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042946030464045059/F6D8JGmP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 432,
+          "like_count": 6608,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 612
+        },
+        "url": "",
+        "username": "V01d_Digit",
+        "verified": false
+      }
+    ]
+  }
+}

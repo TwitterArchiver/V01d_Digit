@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1760113409167949824",
+    "conversation_id": "2074659885342769591",
+    "created_at": "2026-07-08T01:00:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T02:00:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074659885342769591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1760113409167949824",
+          "start": 3,
+          "username": "V01d_Digit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074659885342769591",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043909242932081038",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @V01d_Digit: 为什么大家都喜欢Yuki这个名字\n我也要叫Yuki吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760113409167949824",
+        "conversation_id": "2074659885342769591",
+        "created_at": "2026-07-08T01:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T02:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074659885342769591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1760113409167949824",
+              "start": 3,
+              "username": "V01d_Digit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074659885342769591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043909242932081038",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @V01d_Digit: 为什么大家都喜欢Yuki这个名字\n我也要叫Yuki吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760113409167949824",
+        "conversation_id": "2043909242932081038",
+        "created_at": "2026-04-14T04:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T05:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043909242932081038"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043909242932081038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 33243,
+          "like_count": 115,
+          "quote_count": 1,
+          "reply_count": 27,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "为什么大家都喜欢Yuki这个名字\n我也要叫Yuki吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-21T01:25:31.000Z",
+        "description": "17y/AuDHD/not cuteFtF\n普通国内高中生，精神状态还好？，大量隐属\nNo 见证/NSFW｜CN/EN ok｜PM/CS beginner｜Goal :=Coq/?\nGame:我能玩吗｜Lover:Exist｜欢迎聊有趣/专业话题",
+        "id": "1760113409167949824",
+        "location": "V01d&Yuki？",
+        "name": "V01d（Yuki）",
+        "pinned_tweet_id": "2043909242932081038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042946030464045059/F6D8JGmP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 432,
+          "like_count": 6624,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 612
+        },
+        "url": "",
+        "username": "V01d_Digit",
+        "verified": false
+      }
+    ]
+  }
+}
