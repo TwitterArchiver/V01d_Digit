@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076187456723202048"
+      ]
+    },
+    "author_id": "1760113409167949824",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2076187579180102080",
+    "created_at": "2026-07-12T06:11:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T07:11:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076187579180102080"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IgWR7L7mT2",
+          "end": 54,
+          "expanded_url": "https://x.com/V01d_Digit/status/2076187579180102080/photo/1",
+          "media_key": "3_2076187456723202048",
+          "start": 31,
+          "url": "https://t.co/IgWR7L7mT2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076187579180102080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "裸体，暴力，敏感内容，AI生成，阻止Grok修改\nALT好玩 https://t.co/IgWR7L7mT2"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "裸体，暴力，敏感内容，AI生成，阻止Grok修改",
+        "height": 1448,
+        "media_key": "3_2076187456723202048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNAZfeUbsAAErcq.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076187456723202048"
+          ]
+        },
+        "author_id": "1760113409167949824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2076187579180102080",
+        "created_at": "2026-07-12T06:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T07:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076187579180102080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IgWR7L7mT2",
+              "end": 54,
+              "expanded_url": "https://x.com/V01d_Digit/status/2076187579180102080/photo/1",
+              "media_key": "3_2076187456723202048",
+              "start": 31,
+              "url": "https://t.co/IgWR7L7mT2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076187579180102080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "裸体，暴力，敏感内容，AI生成，阻止Grok修改\nALT好玩 https://t.co/IgWR7L7mT2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-21T01:25:31.000Z",
+        "description": "17y/AuDHD/not cuteFtF\n普通国内高中生，精神状态还好？，大量隐属\nNo 见证/NSFW｜CN/EN ok｜PM/CS beginner｜Goal :=Coq/?\nGame:我能玩吗｜Lover:Exist｜欢迎聊有趣/专业话题",
+        "id": "1760113409167949824",
+        "location": "V01d&Yuki？",
+        "name": "V01d（Yuki）",
+        "pinned_tweet_id": "2043909242932081038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042946030464045059/F6D8JGmP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 440,
+          "like_count": 6719,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 618
+        },
+        "url": "",
+        "username": "V01d_Digit",
+        "verified": false
+      }
+    ]
+  }
+}
