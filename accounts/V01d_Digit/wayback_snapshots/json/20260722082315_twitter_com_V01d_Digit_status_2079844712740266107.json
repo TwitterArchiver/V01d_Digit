@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2079391656013340672"
+      ],
+      "media_source_tweet_id": [
+        "2079391678780043690"
+      ]
+    },
+    "author_id": "1760113409167949824",
+    "conversation_id": "2079844712740266107",
+    "created_at": "2026-07-22T08:23:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T09:23:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079844712740266107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1234240179596034048",
+          "start": 3,
+          "username": "kryptictwt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QkllQdUF14",
+          "end": 39,
+          "expanded_url": "https://x.com/kryptictwt/status/2079391678780043690/video/1",
+          "media_key": "13_2079391656013340672",
+          "start": 16,
+          "url": "https://t.co/QkllQdUF14"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079844712740266107",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3478
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079391678780043690",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kryptictwt: https://t.co/QkllQdUF14"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25692,
+        "height": 762,
+        "media_key": "13_2079391656013340672",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079391656013340672/img/-wJGID21Q715kZtL.jpg",
+        "public_metrics": {
+          "view_count": 441259
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079391656013340672/vid/avc1/280x270/9Jv98U6bOciCcfWp.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079391656013340672/vid/avc1/374x360/s7CNidDObs5e09SV.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079391656013340672/vid/avc1/750x720/IwG1WKKLtslgrXW0.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079391656013340672/pl/VmKWoCXm6fvT9vts.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 794
+      },
+      {
+        "duration_ms": 25692,
+        "height": 762,
+        "media_key": "13_2079391656013340672",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079391656013340672/img/-wJGID21Q715kZtL.jpg",
+        "public_metrics": {
+          "view_count": 440311
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079391656013340672/vid/avc1/280x270/9Jv98U6bOciCcfWp.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079391656013340672/vid/avc1/374x360/s7CNidDObs5e09SV.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079391656013340672/vid/avc1/750x720/IwG1WKKLtslgrXW0.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079391656013340672/pl/VmKWoCXm6fvT9vts.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 794
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079391656013340672"
+          ]
+        },
+        "author_id": "1234240179596034048",
+        "conversation_id": "2079391678780043690",
+        "created_at": "2026-07-21T02:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T03:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079391678780043690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QkllQdUF14",
+              "end": 23,
+              "expanded_url": "https://x.com/kryptictwt/status/2079391678780043690/video/1",
+              "media_key": "13_2079391656013340672",
+              "start": 0,
+              "url": "https://t.co/QkllQdUF14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079391678780043690",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3557,
+          "impression_count": 920091,
+          "like_count": 31030,
+          "quote_count": 100,
+          "reply_count": 96,
+          "retweet_count": 3478
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QkllQdUF14"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079391656013340672"
+          ],
+          "media_source_tweet_id": [
+            "2079391678780043690"
+          ]
+        },
+        "author_id": "1760113409167949824",
+        "conversation_id": "2079844712740266107",
+        "created_at": "2026-07-22T08:23:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T09:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079844712740266107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1234240179596034048",
+              "start": 3,
+              "username": "kryptictwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QkllQdUF14",
+              "end": 39,
+              "expanded_url": "https://x.com/kryptictwt/status/2079391678780043690/video/1",
+              "media_key": "13_2079391656013340672",
+              "start": 16,
+              "url": "https://t.co/QkllQdUF14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079844712740266107",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3478
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079391678780043690",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kryptictwt: https://t.co/QkllQdUF14"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-21T01:25:31.000Z",
+        "description": "17y/AuDHD/not cuteFtF\n普通国内高中生，精神状态还好？，大量隐属\nNo 见证/NSFW｜CN/EN ok｜PM/CS beginner｜Goal :=Coq/?\nGame:我能玩吗｜Lover:Exist｜欢迎聊有趣/专业话题",
+        "id": "1760113409167949824",
+        "location": "V01d&Yuki？",
+        "name": "V01d（Yuki）",
+        "pinned_tweet_id": "2043909242932081038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042946030464045059/F6D8JGmP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 463,
+          "like_count": 7426,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 664
+        },
+        "url": "",
+        "username": "V01d_Digit",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-01T22:13:04.000Z",
+        "description": "multifandom → osu, genshin, touhou, pjsk, vocaloid || EN/BG/JP🆗|| discord: kkr223 || priv: @223kkr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 91,
+                "username": "223kkr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "osu.ppy.sh/users/kryptic",
+                "end": 23,
+                "expanded_url": "https://osu.ppy.sh/users/kryptic",
+                "start": 0,
+                "url": "https://t.co/cGhEbYMgi0"
+              }
+            ]
+          }
+        },
+        "id": "1234240179596034048",
+        "location": "any pronouns",
+        "name": "cryptic",
+        "pinned_tweet_id": "2039127961056530624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077597596516855808/w6eowb_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 484,
+          "like_count": 42688,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 818
+        },
+        "url": "https://t.co/cGhEbYMgi0",
+        "username": "kryptictwt",
+        "verified": false
+      }
+    ]
+  }
+}
