@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1760113409167949824",
+    "conversation_id": "2087070607519433073",
+    "created_at": "2026-08-11T06:56:23.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T07:56:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087070607519433073"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2087070607519433073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天主流的 VPN 梯子基本都炸了，\n\n现在还能翻墙出来刷到此推的中国人，基本都是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760113409167949824",
+        "conversation_id": "2087070607519433073",
+        "created_at": "2026-08-11T06:56:23.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T07:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087070607519433073"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087070607519433073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天主流的 VPN 梯子基本都炸了，\n\n现在还能翻墙出来刷到此推的中国人，基本都是"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-21T01:25:31.000Z",
+        "description": "17y/AuDHD/not cuteFtF\n普通国内高中生，精神状态还好？，大量隐属\nNo 见证/NSFW｜CN/EN ok｜PM/CS beginner｜Goal :=Coq/?\nGame:我能玩吗｜Lover:Exist｜欢迎聊有趣/专业话题",
+        "id": "1760113409167949824",
+        "is_identity_verified": false,
+        "location": "V01d&Yuki？",
+        "most_recent_tweet_id": "2087070607519433073",
+        "name": "V01d（Yuki）",
+        "pinned_tweet_id": "2043909242932081038",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042946030464045059/F6D8JGmP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 500,
+          "like_count": 8488,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 761
+        },
+        "url": "",
+        "username": "V01d_Digit",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

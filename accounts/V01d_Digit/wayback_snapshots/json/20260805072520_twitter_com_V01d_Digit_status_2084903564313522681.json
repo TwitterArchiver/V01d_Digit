@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1760113409167949824",
+    "conversation_id": "2084754843600826747",
+    "created_at": "2026-08-05T07:25:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T08:25:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084903564313522681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1904873292366036992",
+          "start": 0,
+          "username": "Chiyuyu520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084903564313522681",
+    "in_reply_to_user_id": "1904873292366036992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084754843600826747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chiyuyu520 祝贺喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1128,
+        "media_key": "3_2084754836478980096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO6JenAbcAAB8XE.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760113409167949824",
+        "conversation_id": "2084754843600826747",
+        "created_at": "2026-08-05T07:25:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T08:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084903564313522681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084903564313522681",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084754843600826747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 祝贺喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084754836478980096"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "2084754843600826747",
+        "created_at": "2026-08-04T21:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T22:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084754843600826747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LdXIx15pxd",
+              "end": 39,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2084754843600826747/photo/1",
+              "media_key": "3_2084754836478980096",
+              "start": 16,
+              "url": "https://t.co/LdXIx15pxd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084754843600826747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1325,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自己HRT500天了\n祝贺自己 https://t.co/LdXIx15pxd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-21T01:25:31.000Z",
+        "description": "17y/AuDHD/not cuteFtF\n普通国内高中生，精神状态还好？，大量隐属\nNo 见证/NSFW｜CN/EN ok｜PM/CS beginner｜Goal :=Coq/?\nGame:我能玩吗｜Lover:Exist｜欢迎聊有趣/专业话题",
+        "id": "1760113409167949824",
+        "location": "V01d&Yuki？",
+        "name": "V01d（Yuki）",
+        "pinned_tweet_id": "2043909242932081038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042946030464045059/F6D8JGmP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 498,
+          "like_count": 8359,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 744
+        },
+        "url": "",
+        "username": "V01d_Digit",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜 | Cloudflare 八级钳工\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "遗书→",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4461,
+          "following_count": 1281,
+          "like_count": 7649,
+          "listed_count": 6,
+          "media_count": 677,
+          "tweet_count": 1849
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

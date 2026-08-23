@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1760113409167949824",
+    "conversation_id": "2086752620191105450",
+    "created_at": "2026-08-10T11:34:04.000Z",
+    "display_text_range": [
+      13,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T12:34:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086778099577028703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1393881158849503232",
+          "start": 0,
+          "username": "yuki_ciallo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086778099577028703",
+    "in_reply_to_user_id": "1393881158849503232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086752620191105450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuki_ciallo 没尝试过女装，想试试"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2086752610871369728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPWicYkbYAAimOg.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760113409167949824",
+        "conversation_id": "2086752620191105450",
+        "created_at": "2026-08-10T11:34:04.000Z",
+        "display_text_range": [
+          13,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T12:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086778099577028703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1393881158849503232",
+              "start": 0,
+              "username": "yuki_ciallo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086778099577028703",
+        "in_reply_to_user_id": "1393881158849503232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086752620191105450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuki_ciallo 没尝试过女装，想试试"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086752610871369728"
+          ]
+        },
+        "author_id": "1393881158849503232",
+        "conversation_id": "2086752620191105450",
+        "created_at": "2026-08-10T09:52:49.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T10:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086752620191105450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6ptcC3Bw1W",
+              "end": 59,
+              "expanded_url": "https://x.com/yuki_ciallo/status/2086752620191105450/photo/1",
+              "media_key": "3_2086752610871369728",
+              "start": 36,
+              "url": "https://t.co/6ptcC3Bw1W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086752620191105450",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086752610871369728"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不得不说，男装比女装简便、轻快\n\n所以我并不是所有时刻都会穿女装出门的 https://t.co/6ptcC3Bw1W"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-21T01:25:31.000Z",
+        "description": "17y/AuDHD/not cuteFtF\n普通国内高中生，精神状态还好？，大量隐属\nNo 见证/NSFW｜CN/EN ok｜PM/CS beginner｜Goal :=Coq/?\nGame:我能玩吗｜Lover:Exist｜欢迎聊有趣/专业话题",
+        "id": "1760113409167949824",
+        "is_identity_verified": false,
+        "location": "V01d&Yuki？",
+        "most_recent_tweet_id": "2086778099577028703",
+        "name": "V01d（Yuki）",
+        "pinned_tweet_id": "2043909242932081038",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042946030464045059/F6D8JGmP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 498,
+          "like_count": 8452,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 758
+        },
+        "url": "",
+        "username": "V01d_Digit",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-16T10:49:13.000Z",
+        "description": "MtF🏳️‍⚧️ / Sub/M / Bipolar / BPD / DID｜“被所有人爱着……这是我唯一的心愿……”",
+        "id": "1393881158849503232",
+        "is_identity_verified": true,
+        "location": "Betelgeuse",
+        "most_recent_tweet_id": "2086754790718194062",
+        "name": "神楽 由紀 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2073049561418150196",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1393881158849503232/1772605487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029423814757769216/N6DaL2T7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 460,
+          "like_count": 1138,
+          "listed_count": 6,
+          "media_count": 155,
+          "tweet_count": 1652
+        },
+        "url": "",
+        "username": "yuki_ciallo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

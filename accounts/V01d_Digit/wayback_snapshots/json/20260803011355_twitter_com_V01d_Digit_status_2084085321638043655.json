@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1760113409167949824",
+    "conversation_id": "2084085321638043655",
+    "created_at": "2026-08-03T01:13:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T02:13:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084085321638043655"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2084085321638043655",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "心脏疼是在长出血肉吗？我感觉我快成神了，我就是神"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760113409167949824",
+        "conversation_id": "2084085321638043655",
+        "created_at": "2026-08-03T01:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T02:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084085321638043655"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084085321638043655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心脏疼是在长出血肉吗？我感觉我快成神了，我就是神"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-21T01:25:31.000Z",
+        "description": "17y/AuDHD/not cuteFtF\n普通国内高中生，精神状态还好？，大量隐属\nNo 见证/NSFW｜CN/EN ok｜PM/CS beginner｜Goal :=Coq/?\nGame:我能玩吗｜Lover:Exist｜欢迎聊有趣/专业话题",
+        "id": "1760113409167949824",
+        "location": "V01d&Yuki？",
+        "name": "V01d（Yuki）",
+        "pinned_tweet_id": "2043909242932081038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042946030464045059/F6D8JGmP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 492,
+          "like_count": 8210,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 734
+        },
+        "url": "",
+        "username": "V01d_Digit",
+        "verified": false
+      }
+    ]
+  }
+}

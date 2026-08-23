@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1760113409167949824",
+    "conversation_id": "2085610937625788893",
+    "created_at": "2026-08-07T06:36:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T07:36:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085616153267986723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1965448764686303235",
+          "start": 0,
+          "username": "mio_negimeow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085616153267986723",
+    "in_reply_to_user_id": "1965448764686303235",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085610937625788893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mio_negimeow 使用催眠的💊呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760113409167949824",
+        "conversation_id": "2085610937625788893",
+        "created_at": "2026-08-07T06:36:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T07:36:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085616153267986723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965448764686303235",
+              "start": 0,
+              "username": "mio_negimeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085616153267986723",
+        "in_reply_to_user_id": "1965448764686303235",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085610937625788893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mio_negimeow 使用催眠的💊呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965448764686303235",
+        "conversation_id": "2085610937625788893",
+        "created_at": "2026-08-07T06:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T07:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085610937625788893"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085610937625788893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吞枪自杀真的没有痛苦吗\n但是死状估计会挺惨的\n啊没有...不要多想，我现在精神状态很好，我只是在思考，我老的走不动路，快要没法自理的那天，该怎么结束这一切\n我不想没有任何生活质量和尊严的活着，况且那个时候我的残疾应该已经发展到完全看不到东西了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-21T01:25:31.000Z",
+        "description": "17y/AuDHD/not cuteFtF\n普通国内高中生，精神状态还好？，大量隐属\nNo 见证/NSFW｜CN/EN ok｜PM/CS beginner｜Goal :=Coq/?\nGame:我能玩吗｜Lover:Exist｜欢迎聊有趣/专业话题",
+        "id": "1760113409167949824",
+        "location": "V01d&Yuki？",
+        "name": "V01d（Yuki）",
+        "pinned_tweet_id": "2043909242932081038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042946030464045059/F6D8JGmP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 497,
+          "like_count": 8448,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 749
+        },
+        "url": "",
+        "username": "V01d_Digit",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T16:14:58.000Z",
+        "description": "笨葱猫喵~｜姛｜Feminist ｜喜欢探索世界的理工女 ｜ 日常碎碎念  |  🏳️‍⚧️  |  姐姐🥰@RrkwM10400",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "RrkwM10400"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "snowmiku-home.top/ask/",
+                "end": 23,
+                "expanded_url": "https://snowmiku-home.top/ask/",
+                "start": 0,
+                "url": "https://t.co/D65FRZl7CC"
+              }
+            ]
+          }
+        },
+        "id": "1965448764686303235",
+        "location": "提问箱📦→",
+        "name": "酱葱🌱",
+        "pinned_tweet_id": "2076361084647444658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993376877587972104/nec22BPP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2644,
+          "following_count": 102,
+          "like_count": 1682,
+          "listed_count": 6,
+          "media_count": 111,
+          "tweet_count": 925
+        },
+        "url": "https://t.co/D65FRZl7CC",
+        "username": "mio_negimeow",
+        "verified": true
+      }
+    ]
+  }
+}

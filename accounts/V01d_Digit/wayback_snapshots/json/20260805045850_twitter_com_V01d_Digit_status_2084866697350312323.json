@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1760113409167949824",
+    "conversation_id": "2084866697350312323",
+    "created_at": "2026-08-05T04:58:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T05:58:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084866697350312323"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Epheiamoe/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/Epheiamoe/status/2078103616787996725",
+          "start": 5,
+          "url": "https://t.co/wUwaAgumqq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084866697350312323",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078103616787996725",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "回不去了 https://t.co/wUwaAgumqq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760113409167949824",
+        "conversation_id": "2084866697350312323",
+        "created_at": "2026-08-05T04:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T05:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084866697350312323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Epheiamoe/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Epheiamoe/status/2078103616787996725",
+              "start": 5,
+              "url": "https://t.co/wUwaAgumqq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084866697350312323",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078103616787996725",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "回不去了 https://t.co/wUwaAgumqq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2078103616787996725",
+        "created_at": "2026-07-17T13:04:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T14:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078103616787996725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1763577841588056064",
+              "start": 3,
+              "username": "yxrchina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078103616787996725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 12,
+                "id": "1763577841588056064",
+                "start": 3,
+                "username": "yxrchina"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "djggvjcjgqsdy.ok.kimi.link",
+                "end": 230,
+                "expanded_url": "https://djggvjcjgqsdy.ok.kimi.link",
+                "start": 207,
+                "url": "https://t.co/vjWl4PzeZX"
+              }
+            ]
+          },
+          "text": "我和 @yxrchina 通过我们自己并不严谨的娱乐向基准测试测试了包括Claude Fable 5, Claude Sonnet 5,GPT 5.6 Sol, Kimi K 2.6, Kimi K 3 在内的模型。请期待！将在近期（旅游完回去之后）发布结果\n总之，Kimi K 3 在这个基准中已经接近GPT 5.6 Sol 了，但很明确有不足的地方虽然很娱乐，但显示了很多问题！\n\n先看看Kimi 的作品！↓\nhttps://t.co/vjWl4PzeZX"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 817,
+          "like_count": 9,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "following",
+        "text": "我和 @yxrchina 通过我们自己并不严谨的娱乐向基准测试测试了包括Claude Fable 5, Claude Sonnet 5,GPT 5.6 Sol, Kimi K 2.6, Kimi K 3 在内的模型。请期待！将在近期（旅游完回去之后）发布结果\n总之，Kimi K 3 在这个基准中已经接近GPT 5.6 Sol"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-21T01:25:31.000Z",
+        "description": "17y/AuDHD/not cuteFtF\n普通国内高中生，精神状态还好？，大量隐属\nNo 见证/NSFW｜CN/EN ok｜PM/CS beginner｜Goal :=Coq/?\nGame:我能玩吗｜Lover:Exist｜欢迎聊有趣/专业话题",
+        "id": "1760113409167949824",
+        "location": "V01d&Yuki？",
+        "name": "V01d（Yuki）",
+        "pinned_tweet_id": "2043909242932081038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042946030464045059/F6D8JGmP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 497,
+          "like_count": 8340,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 742
+        },
+        "url": "",
+        "username": "V01d_Digit",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2077017710924623957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 76,
+          "like_count": 704,
+          "listed_count": 2,
+          "media_count": 51,
+          "tweet_count": 545
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": true
+      }
+    ]
+  }
+}

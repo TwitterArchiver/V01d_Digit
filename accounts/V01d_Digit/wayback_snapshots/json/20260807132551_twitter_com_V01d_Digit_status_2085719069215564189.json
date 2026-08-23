@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1760113409167949824",
+    "conversation_id": "2085412461445062985",
+    "created_at": "2026-08-07T13:25:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T14:25:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085719069215564189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1393881158849503232",
+          "start": 0,
+          "username": "yuki_ciallo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085719069215564189",
+    "in_reply_to_user_id": "1393881158849503232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085412461445062985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuki_ciallo 抱抱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 180,
+        "media_key": "3_2085412455262617600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPDflD4agAAWZom.jpg",
+        "width": 1250
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760113409167949824",
+        "conversation_id": "2085412461445062985",
+        "created_at": "2026-08-07T13:25:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T14:25:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085719069215564189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1393881158849503232",
+              "start": 0,
+              "username": "yuki_ciallo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085719069215564189",
+        "in_reply_to_user_id": "1393881158849503232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085412461445062985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuki_ciallo 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085412455262617600"
+          ]
+        },
+        "author_id": "1393881158849503232",
+        "conversation_id": "2085412461445062985",
+        "created_at": "2026-08-06T17:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T18:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085412461445062985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wLowyg2Axm",
+              "end": 153,
+              "expanded_url": "https://x.com/yuki_ciallo/status/2085412461445062985/photo/1",
+              "media_key": "3_2085412455262617600",
+              "start": 130,
+              "url": "https://t.co/wLowyg2Axm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085412461445062985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 474,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是的，我已经快20岁了\n\n但无论是我自己的感觉，还是周围人的观察，都不认为我像成年人\n\n相反，都说我更像是16岁——恰好是我刚休学的年纪\n\n可以说，我自从2022年初中毕业，中考结束后，心理年龄就被冻结了\n\n我长不大了\n\n正好，我也不想长大\n\n……我恐惧长大 https://t.co/wLowyg2Axm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-21T01:25:31.000Z",
+        "description": "17y/AuDHD/not cuteFtF\n普通国内高中生，精神状态还好？，大量隐属\nNo 见证/NSFW｜CN/EN ok｜PM/CS beginner｜Goal :=Coq/?\nGame:我能玩吗｜Lover:Exist｜欢迎聊有趣/专业话题",
+        "id": "1760113409167949824",
+        "location": "V01d&Yuki？",
+        "name": "V01d（Yuki）",
+        "pinned_tweet_id": "2043909242932081038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042946030464045059/F6D8JGmP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 497,
+          "like_count": 8454,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 751
+        },
+        "url": "",
+        "username": "V01d_Digit",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-16T10:49:13.000Z",
+        "description": "MtF🏳️‍⚧️ / Sub/M / Bipolar / BPD / DID｜“被所有人爱着……这是我唯一的心愿……”",
+        "id": "1393881158849503232",
+        "location": "Betelgeuse",
+        "name": "神楽 由紀 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2073049561418150196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029423814757769216/N6DaL2T7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 458,
+          "like_count": 1138,
+          "listed_count": 6,
+          "media_count": 146,
+          "tweet_count": 1634
+        },
+        "url": "",
+        "username": "yuki_ciallo",
+        "verified": true
+      }
+    ]
+  }
+}
