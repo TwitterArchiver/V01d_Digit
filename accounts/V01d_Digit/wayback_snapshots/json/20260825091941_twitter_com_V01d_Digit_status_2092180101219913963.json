@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1760113409167949824",
+    "conversation_id": "2092180101219913963",
+    "created_at": "2026-08-25T09:19:41.000Z",
+    "display_text_range": [
+      0,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T10:19:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092180101219913963"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RhenCloud_/sta…",
+          "end": 81,
+          "expanded_url": "https://twitter.com/RhenCloud_/status/2091956322589880421",
+          "start": 58,
+          "url": "https://t.co/U7ebT6G1rk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092180101219913963",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091956322589880421",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "缺钱，接单\n任何计算机方面问题均可咨询，视问题难度收费\n接受以下付款方式：微信赞赏码 支付宝口令红包 任何加密货币 https://t.co/U7ebT6G1rk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760113409167949824",
+        "conversation_id": "2092180101219913963",
+        "created_at": "2026-08-25T09:19:41.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T10:19:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092180101219913963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RhenCloud_/sta…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/RhenCloud_/status/2091956322589880421",
+              "start": 58,
+              "url": "https://t.co/U7ebT6G1rk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092180101219913963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091956322589880421",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "缺钱，接单\n任何计算机方面问题均可咨询，视问题难度收费\n接受以下付款方式：微信赞赏码 支付宝口令红包 任何加密货币 https://t.co/U7ebT6G1rk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560959425",
+        "conversation_id": "2091956322589880421",
+        "created_at": "2026-08-24T18:30:28.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T19:28:39.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091955862910926951",
+          "2091956322589880421"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091956322589880421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 922,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "缺钱，接单\n任何计算机方面问题均可咨询，视问题难度收费\n接受以下付款方式：微信赞赏码 支付宝口令红包 任何加密货币"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-21T01:25:31.000Z",
+        "description": "17y/AuDHD/not cuteFtF\n普通国内高中生，精神状态还好？，大量隐属\nNo 见证/NSFW｜CN/EN ok｜PM/CS beginner｜Goal :=Coq/?\nGame:我能玩吗｜Lover:Exist｜欢迎聊有趣/专业话题",
+        "id": "1760113409167949824",
+        "is_identity_verified": false,
+        "location": "V01d&Yuki？",
+        "most_recent_tweet_id": "2092180101219913963",
+        "name": "V01d（Yuki）",
+        "pinned_tweet_id": "2043909242932081038",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042946030464045059/F6D8JGmP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 505,
+          "like_count": 8982,
+          "listed_count": 3,
+          "media_count": 20,
+          "tweet_count": 779
+        },
+        "url": "",
+        "username": "V01d_Digit",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-07-01T16:34:33.000Z",
+        "description": "🏳️‍⚧️MTF HRT: 2026.05.24\n家长反对党\n@Trans_Helper 联合创始人 | @ReCloudStudio 联合创始人 | @SiiWayTeam 成员 | @TransCircleOrg 成员\n\n推特推送可能不及时，有紧急情况请通过tg联系\nhttps://t.co/QQ1gFO9AHS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 31,
+                "username": "Trans_Helper"
+              },
+              {
+                "end": 67,
+                "start": 53,
+                "username": "ReCloudStudio"
+              },
+              {
+                "end": 87,
+                "start": 76,
+                "username": "SiiWayTeam"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "TransCircleOrg"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/rhencloud_chat…",
+                "end": 159,
+                "expanded_url": "https://t.me/rhencloud_chat_bot",
+                "start": 136,
+                "url": "https://t.co/QQ1gFO9AHS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rhen.cloud",
+                "end": 23,
+                "expanded_url": "https://rhen.cloud",
+                "start": 0,
+                "url": "https://t.co/9WUSPofmNG"
+              }
+            ]
+          }
+        },
+        "id": "1560959425",
+        "is_identity_verified": false,
+        "location": "世界的尽头",
+        "most_recent_tweet_id": "2092140801606484143",
+        "name": "泠云",
+        "pinned_tweet_id": "2091956322589880421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1560959425/1776926682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047200196996784128/Qstb92OW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 214,
+          "like_count": 7783,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 1208
+        },
+        "url": "https://t.co/9WUSPofmNG",
+        "username": "RhenCloud_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

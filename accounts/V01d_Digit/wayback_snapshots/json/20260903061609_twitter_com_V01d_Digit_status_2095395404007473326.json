@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1760113409167949824",
+    "conversation_id": "2095239349692727566",
+    "created_at": "2026-09-03T06:16:09.000Z",
+    "display_text_range": [
+      15,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T07:16:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095395404007473326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1999059927650930688",
+          "start": 0,
+          "username": "LightSTAR_qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095395404007473326",
+    "in_reply_to_user_id": "1999059927650930688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095239349692727566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LightSTAR_qwq 喵呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760113409167949824",
+        "conversation_id": "2095239349692727566",
+        "created_at": "2026-09-03T06:16:09.000Z",
+        "display_text_range": [
+          15,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T07:16:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095395404007473326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1999059927650930688",
+              "start": 0,
+              "username": "LightSTAR_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095395404007473326",
+        "in_reply_to_user_id": "1999059927650930688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095239349692727566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LightSTAR_qwq 喵呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999059927650930688",
+        "conversation_id": "2095239349692727566",
+        "created_at": "2026-09-02T19:56:03.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T20:56:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095239349692727566"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095239349692727566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 321,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "fo领免费鸡蛋喵～"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-21T01:25:31.000Z",
+        "description": "17y/AuDHD/not cuteFtF\n普通国内高中生，精神状态还好？，大量隐属\nNo 见证/NSFW｜CN/EN ok｜PM/CS beginner｜Goal :=Coq/?\nGame:我能玩吗｜Lover:Exist｜欢迎聊有趣/专业话题",
+        "id": "1760113409167949824",
+        "is_identity_verified": false,
+        "location": "V01d&Yuki？",
+        "most_recent_tweet_id": "2095395404007473326",
+        "name": "V01d（Yuki）",
+        "pinned_tweet_id": "2043909242932081038",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042946030464045059/F6D8JGmP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 531,
+          "like_count": 9554,
+          "listed_count": 3,
+          "media_count": 21,
+          "tweet_count": 816
+        },
+        "url": "",
+        "username": "V01d_Digit",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-11T10:13:45.000Z",
+        "description": "音游人 | mtf🏳️‍⚧️ | 165cm | 57kg | 重焦重抑 | 无证含糖 | 生日2008.11.28 | B站up | VRchat重度依赖 | 不od | 不见证 | 不抽烟喝酒 | 有时会割手 |  对象@lovelymaodou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 112,
+                "username": "lovelymaodou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/bzfR3fN",
+                "end": 23,
+                "expanded_url": "https://b23.tv/bzfR3fN",
+                "start": 0,
+                "url": "https://t.co/ghmbUs7tgx"
+              }
+            ]
+          }
+        },
+        "id": "1999059927650930688",
+        "is_identity_verified": false,
+        "location": "广东",
+        "most_recent_tweet_id": "2095239349692727566",
+        "name": "苍星哒哒哒🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1999059927650930688/1777743465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051718115445354496/zw7XNEkf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 375,
+          "like_count": 1293,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 152
+        },
+        "url": "https://t.co/ghmbUs7tgx",
+        "username": "LightSTAR_qwq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

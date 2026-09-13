@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1760113409167949824",
+    "conversation_id": "2093922179339739253",
+    "created_at": "2026-08-30T04:42:05.000Z",
+    "display_text_range": [
+      0,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T05:42:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093922179339739253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1718745049213849600",
+          "start": 3,
+          "username": "7eaFwi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093922179339739253",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 941
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093665024585945513",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @7eaFwi: 中国って学歴競争ヤバイとは聞いてたけど学校が週6日で1日15時間とかが普通らしくて人権無さすぎる　刑務所？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760113409167949824",
+        "conversation_id": "2093922179339739253",
+        "created_at": "2026-08-30T04:42:05.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T05:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093922179339739253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1718745049213849600",
+              "start": 3,
+              "username": "7eaFwi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093922179339739253",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 941
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093665024585945513",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @7eaFwi: 中国って学歴競争ヤバイとは聞いてたけど学校が週6日で1日15時間とかが普通らしくて人権無さすぎる　刑務所？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1718745049213849600",
+        "conversation_id": "2093665024585945513",
+        "created_at": "2026-08-29T11:40:14.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T12:40:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093665024585945513"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093665024585945513",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "中国って学歴競争ヤバイとは聞いてたけど学校が週6日で1日15時間とかが普通らしくて人権無さすぎる　刑務所？"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1521,
+          "impression_count": 4730615,
+          "like_count": 16108,
+          "quote_count": 445,
+          "reply_count": 2495,
+          "retweet_count": 944
+        },
+        "reply_settings": "everyone",
+        "text": "中国って学歴競争ヤバイとは聞いてたけど学校が週6日で1日15時間とかが普通らしくて人権無さすぎる　刑務所？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-21T01:25:31.000Z",
+        "description": "17y/AuDHD/not cuteFtF\n普通国内高中生，精神状态还好？，大量隐属\nNo 见证/NSFW｜CN/EN ok｜PM/CS beginner｜Goal :=Coq/?\nGame:我能玩吗｜Lover:Exist｜欢迎聊有趣/专业话题",
+        "id": "1760113409167949824",
+        "is_identity_verified": false,
+        "location": "V01d&Yuki？",
+        "most_recent_tweet_id": "2093922179339739253",
+        "name": "V01d（Yuki）",
+        "pinned_tweet_id": "2043909242932081038",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042946030464045059/F6D8JGmP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 523,
+          "like_count": 9414,
+          "listed_count": 3,
+          "media_count": 21,
+          "tweet_count": 803
+        },
+        "url": "",
+        "username": "V01d_Digit",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-29T21:42:12.000Z",
+        "description": "魔女🥀🪉, 3D写真  (NOT V/TUBER, NOT V/RChat), 雑多やBMSなど, 音楽の話題NG⚠️\nメインアカウント：@7eaF\nファンアート：#leafbms\n自撮り： #leafbga & ハイライト\nモデル：@Sourxuan939\nデザイン：@toconiwa1",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 90,
+                "start": 82,
+                "tag": "leafbms"
+              },
+              {
+                "end": 104,
+                "start": 96,
+                "tag": "leafbga"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 74,
+                "start": 69,
+                "username": "7eaF"
+              },
+              {
+                "end": 129,
+                "start": 117,
+                "username": "Sourxuan939"
+              },
+              {
+                "end": 145,
+                "start": 135,
+                "username": "toconiwa1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCq57M…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCq57Mh587hgFDXaxDjTP6Cw",
+                "start": 0,
+                "url": "https://t.co/i9FB9AuoJ4"
+              }
+            ]
+          }
+        },
+        "id": "1718745049213849600",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093884163938193730",
+        "name": "LeaF2",
+        "pinned_tweet_id": "2093703652066329003",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1718745049213849600/1748142890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1719313620063109120/PtWqGh_J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33081,
+          "following_count": 581,
+          "like_count": 33499,
+          "listed_count": 34,
+          "media_count": 1484,
+          "tweet_count": 29887
+        },
+        "url": "https://t.co/i9FB9AuoJ4",
+        "username": "7eaFwi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

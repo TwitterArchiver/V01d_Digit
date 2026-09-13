@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1760113409167949824",
+    "conversation_id": "2092193374019391738",
+    "created_at": "2026-08-25T15:23:33.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T16:23:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092271671688445981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1393881158849503232",
+          "start": 0,
+          "username": "lynn_ciallo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092271671688445981",
+    "in_reply_to_user_id": "1393881158849503232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092193374019391738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lynn_ciallo 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760113409167949824",
+        "conversation_id": "2092193374019391738",
+        "created_at": "2026-08-25T15:23:33.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T16:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092271671688445981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1393881158849503232",
+              "start": 0,
+              "username": "lynn_ciallo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092271671688445981",
+        "in_reply_to_user_id": "1393881158849503232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092193374019391738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lynn_ciallo 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1393881158849503232",
+        "conversation_id": "2092193374019391738",
+        "created_at": "2026-08-25T10:12:26.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T11:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092193374019391738"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092193374019391738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我把中信银行的总行、深圳分行（我的开户行）、郑州分行（管户行的上属一级分行）、新乡分行（管户行的上属二级分行）、新乡长垣支行（我的管户行）全部都投诉到12378了\n\n上周六（22-08-26），我的卡被莫名降额，从每日500万元降至每日999.99元。遂前往深圳分行营业部交涉。职员以“调额不归开户行管理，归‘管户行’管理”，而我的管理行是我开立第一张中信卡的“新乡长垣支行”\n\n由此，他们推脱“想调额必须等周一管户行上班后请求他们协作”\n\n当晚，我把深圳分行投诉到了12378平台\n\n过了三四天之后，到了今天（25-08-26），我只接到了一通来自中信银行郑州分行（管户行的上属一级分行）的客户经理的电话，内容也仅仅是一句“我们会持续跟进的”\n\n我忍无可忍了，于是把中信银行的五级分支行全部投诉到12378，同时也在95558行内投诉电话作了反馈\n\n……气死人！"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我把中信银行的总行、深圳分行（我的开户行）、郑州分行（管户行的上属一级分行）、新乡分行（管户行的上属二级分行）、新乡长垣支行（我的管户行）全部都投诉到12378了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-21T01:25:31.000Z",
+        "description": "17y/AuDHD/not cuteFtF\n普通国内高中生，精神状态还好？，大量隐属\nNo 见证/NSFW｜CN/EN ok｜PM/CS beginner｜Goal :=Coq/?\nGame:我能玩吗｜Lover:Exist｜欢迎聊有趣/专业话题",
+        "id": "1760113409167949824",
+        "is_identity_verified": false,
+        "location": "V01d&Yuki？",
+        "most_recent_tweet_id": "2092271671688445981",
+        "name": "V01d（Yuki）",
+        "pinned_tweet_id": "2043909242932081038",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042946030464045059/F6D8JGmP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 509,
+          "like_count": 9073,
+          "listed_count": 3,
+          "media_count": 20,
+          "tweet_count": 786
+        },
+        "url": "",
+        "username": "V01d_Digit",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-16T10:49:13.000Z",
+        "description": "非指定女装 / 碎碎念小号：@yuki_ciallo｜MtF🏳️‍⚧️ / Sub/M / Bipolar / BPD / DID｜“被所有人爱着……这是我唯一的心愿……”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "yuki_ciallo"
+              }
+            ]
+          }
+        },
+        "id": "1393881158849503232",
+        "is_identity_verified": true,
+        "location": "Betelgeuse",
+        "most_recent_tweet_id": "2092193374019391738",
+        "name": "神楽坂 唯音 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2073049561418150196",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1393881158849503232/1772605487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029423814757769216/N6DaL2T7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 471,
+          "like_count": 1137,
+          "listed_count": 6,
+          "media_count": 159,
+          "tweet_count": 1670
+        },
+        "url": "",
+        "username": "lynn_ciallo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

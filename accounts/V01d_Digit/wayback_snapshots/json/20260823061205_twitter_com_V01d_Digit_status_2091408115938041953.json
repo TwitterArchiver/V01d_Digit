@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1760113409167949824",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "2091408115938041953",
+    "created_at": "2026-08-23T06:12:05.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T07:12:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091408115938041953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2065321543538991104",
+          "start": 3,
+          "username": "Sekihei5i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091408115938041953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2104
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090422059906322774",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sekihei5i: 刚才看了看中国的网络才发现，“日本旅游业凉了“竟然冲上了百度热搜榜。原来是因为上个月里中国的赴日游客比去年同期减少了56.1%，中国许多媒体就以此为根据来炒作话题，制造一种中国游客不去日本，日本的旅游业就要凉菜的假象。但实际上，虽然中国游客的数量腰…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760113409167949824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2091408115938041953",
+        "created_at": "2026-08-23T06:12:05.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T07:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091408115938041953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2065321543538991104",
+              "start": 3,
+              "username": "Sekihei5i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091408115938041953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2104
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090422059906322774",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sekihei5i: 刚才看了看中国的网络才发现，“日本旅游业凉了“竟然冲上了百度热搜榜。原来是因为上个月里中国的赴日游客比去年同期减少了56.1%，中国许多媒体就以此为根据来炒作话题，制造一种中国游客不去日本，日本的旅游业就要凉菜的假象。但实际上，虽然中国游客的数量腰…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065321543538991104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2090422059906322774",
+        "created_at": "2026-08-20T12:53:51.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T13:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090422059906322774"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090422059906322774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "刚才看了看中国的网络才发现，“日本旅游业凉了“竟然冲上了百度热搜榜。原来是因为上个月里中国的赴日游客比去年同期减少了56.1%，中国许多媒体就以此为根据来炒作话题，制造一种中国游客不去日本，日本的旅游业就要凉菜的假象。但实际上，虽然中国游客的数量腰斩，但因台湾，韩国游客暴涨，日本七月份的外国游客总数不仅不减，还达到了344万人的新高。中国人不来，照样有人会来。而中国媒体为维持可怜的体面不惜公然造谣，实在是可悲可笑！"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 445,
+          "impression_count": 911522,
+          "like_count": 18618,
+          "quote_count": 88,
+          "reply_count": 715,
+          "retweet_count": 2104
+        },
+        "reply_settings": "everyone",
+        "text": "刚才看了看中国的网络才发现，“日本旅游业凉了“竟然冲上了百度热搜榜。原来是因为上个月里中国的赴日游客比去年同期减少了56.1%，中国许多媒体就以此为根据来炒作话题，制造一种中国游客不去日本，日本的旅游业就要凉菜的假象。但实际上，虽然中国游客的数量腰斩，但因台湾，韩国游客暴涨，日本七月份"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-02-21T01:25:31.000Z",
+        "description": "17y/AuDHD/not cuteFtF\n普通国内高中生，精神状态还好？，大量隐属\nNo 见证/NSFW｜CN/EN ok｜PM/CS beginner｜Goal :=Coq/?\nGame:我能玩吗｜Lover:Exist｜欢迎聊有趣/专业话题",
+        "id": "1760113409167949824",
+        "is_identity_verified": false,
+        "location": "V01d&Yuki？",
+        "most_recent_tweet_id": "2091408115938041953",
+        "name": "V01d（Yuki）",
+        "pinned_tweet_id": "2043909242932081038",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042946030464045059/F6D8JGmP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 499,
+          "like_count": 8853,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 775
+        },
+        "url": "",
+        "username": "V01d_Digit",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-12T06:35:12.000Z",
+        "description": "汉奸石平有感有言",
+        "id": "2065321543538991104",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091026256825618717",
+        "name": "日本参议员石平",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066773579400945664/Kg3XJmUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27739,
+          "following_count": 64,
+          "like_count": 1,
+          "listed_count": 69,
+          "media_count": 38,
+          "tweet_count": 955
+        },
+        "url": "",
+        "username": "Sekihei5i",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
